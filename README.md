@@ -1,0 +1,1 @@
+# spd-git-conflict
